@@ -1,0 +1,13 @@
+@import "../../../styles/colors.scss";
+
+.isError {
+  height: 100%;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.isError--Icon {
+  width: 80px;
+  height: 70px;
+  fill: $dueDateRed;
+}

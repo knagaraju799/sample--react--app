@@ -1,0 +1,36 @@
+@import "../../styles/colors.scss";
+
+.documentsFinalizedSummary {
+  width: 30%;
+  float: right;
+}
+
+.documentsFinalizedSummary--Div {
+  width: 86%;
+  margin-left: 15px;
+}
+
+.documentsFinalizedSummary--Div--Title {
+  margin-bottom: 16px;
+}
+
+.documentsFinalizedSummary--Summary span {
+  display: block;
+}
+
+.documentsFinalizedSummary--Summary--Div {
+  display: flex;
+}
+
+.documentsFinalizedSummary--Summary--MarginBot {
+  margin-bottom: 10px;
+}
+
+.documentsFinalizedSummary--Summary--Span--MarginBottom {
+  margin-bottom: 16px;
+}
+
+.documentsFinalizedSummary--Delta {
+  font-size: 18px;
+  color: $trolleyGray;
+}

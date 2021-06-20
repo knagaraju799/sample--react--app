@@ -1,0 +1,15 @@
+@import "../../styles/colors.scss";
+
+.userProfile {
+  background-color: $white;
+  width: 35%;
+  padding: 25px;
+}
+
+.userProfile--BasicDetails {
+  margin-bottom: 5px;
+}
+
+.userProfile--FrequentlyAccessedReports {
+  margin-top: 5px;
+}

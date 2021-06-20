@@ -1,0 +1,23 @@
+@import "../../styles/colors.scss";
+
+.projectsSummary {
+  background-color: $white;
+  padding: 25px;
+  margin-bottom: 30px;
+}
+
+.projectsSummary--TitleDiv {
+  width: 100%;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.projectsSummary--TitleDiv--ButtonDiv {
+  margin-left: auto;
+}
+
+.projectsSummary--TitleDiv--ButtonDiv
+  .projectsSummary--TitleDiv--ButtonDiv--ViewProjects {
+  background-color: $white;
+  color: $black;
+}

@@ -1,0 +1,43 @@
+@import "../../styles/colors.scss";
+
+.basicDetails--Div {
+  display: flex;
+}
+
+.basicDetails--AvatarDiv {
+  margin-bottom: 25px;
+}
+
+.basicDetails--AvatarDiv .basicDetails--Avatar {
+  font-size: 45px;
+  fill: $green;
+}
+
+.basicDetails--Div--Span {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.basicDetails--Div--Left {
+  width: 50%;
+}
+
+.basicDetails--Button--Div {
+  width: 50%;
+}
+
+.basicDetails--Button {
+  top: 45px;
+  float: right;
+}
+
+.basicDetails--Div--Span--Welcome {
+  font-size: 16px;
+  font-weight: 900;
+  color: $black;
+}
+
+.basicDetails--Div--Span--Name {
+  font-size: 16px;
+  color: $trolleyGray;
+}

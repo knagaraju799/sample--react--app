@@ -1,0 +1,48 @@
+@import "../../styles/colors.scss";
+
+.projectSummaryTable {
+  position: relative;
+  margin-bottom: 70px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+  height: 300px;
+}
+
+table tr {
+  border: 1px solid $veryLightGray;
+  border-left: none;
+  border-right: none;
+}
+table td {
+  border: none;
+  padding: 16px 0 16px 0;
+}
+
+table th {
+  padding: 16px 0 16px 0;
+  text-align: center;
+  color: $black;
+}
+
+.prevButton {
+  transform: rotate(180deg);
+}
+
+.navButton {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.projectSummaryTable--Pagination {
+  margin-top: 30px;
+  float: right;
+}
+
+.projectSummaryTable--Pagination--PageCount {
+  vertical-align: super;
+}

@@ -1,0 +1,44 @@
+@import "../styles/colors.scss";
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&family=Open+Sans:wght@300;400&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: $lightGray;
+  padding: 30px;
+}
+
+Button.MuiButtonBase-root {
+  background-color: $green;
+  color: $white;
+  text-transform: capitalize;
+  box-shadow: none;
+}
+
+.flag {
+  font-weight: 800;
+  font-size: 18px;
+  color: $black;
+}
+
+.widgetTitle {
+  font-weight: 800;
+  font-size: 22px;
+  color: $black;
+}
+
+.sectionTitle {
+  font-weight: 800;
+  font-size: 20px;
+  color: $black;
+}
+
+.generalFont {
+  font-size: 14px;
+  color: $trolleyGray;
+}
+
+.delta {
+  font-size: 12px;
+  color: $trolleyGray;
+  font-weight: 800;
+}
