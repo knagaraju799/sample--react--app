@@ -19,4 +19,4 @@
 
 <h5>Click on below link to visit the deployed site</h5> 
 
-<a href="https://hardcore-blackwell-b67d61.netlify.app/">Sample application</a>
+<a href="https://hardcore-blackwell-b67d61.netlify.app/" target="_blank">Sample application</a>
