@@ -16,3 +16,7 @@
 </ul>
 
 <p> This sample react application help us to understand the technology stack  mentioned above </p>
+
+<h5>Click on below link to visit the deployed site</h5> 
+
+<a href="https://hardcore-blackwell-b67d61.netlify.app/">Sample application</a>
